@@ -69,9 +69,9 @@ Get Packages from terminal
 
 
 ## Design 
-```
+
   https://mobbin.com/apps/coursera-ios-e1be99a0-61a9-4bfe-b008-5ce76844bad8/6b391e4a-dc9c-4e16-b2dc-a908974736f1/screens
-```
+
 
 ## Badges
 
